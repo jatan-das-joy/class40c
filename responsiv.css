@@ -1,0 +1,72 @@
+
+
+
+
+
+
+@media all and ( max-width:1400px) {
+
+
+
+}
+
+@media all and ( max-width:1200px) {
+
+
+
+}
+
+@media all and ( max-width:991px) {
+
+    .section-part.bg-bgf.py-5 {
+        padding-bottom: 0px !important;
+    }
+    .col-lg-6.frmm {
+        margin-bottom: 25px;
+    }
+
+}
+
+@media all and ( max-width:767px) {
+
+    .section-part-1 {
+        padding-top: 0;
+    }
+    .section-prizing1.text-center.py-4 {
+        padding: 5px;
+    }
+    .form-control.kkm {
+        height: 120px;
+    }
+
+}
+
+
+@media all and ( max-width:575px) {
+
+    .section-part-1 {
+        padding-bottom: 12px !important;
+    }
+    .section-part-img {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+    .section-part-2 h2 {
+        font-weight: 600;
+    }
+    .form-right-sight.mt-5 {
+        margin-top: 40px !important;
+        text-align: center;
+        background: #fff;
+        padding: 20px 0;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .form-right-sight h3 {
+        font-size: 30px;
+        font-weight: 600;
+    }
+ 
+
+}
